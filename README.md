@@ -1,2 +1,4 @@
 # RC-Car
-ESP32 remote control car
+Remote Control car using two ESP32 microcontrollers. First ESP32 is used to handle car. Second ESP32 is used as controller. 
+
+# Chassis
