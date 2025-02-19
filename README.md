@@ -3,6 +3,9 @@ Remote Control car using two ESP32 microcontrollers. First ESP32 is used to hand
 
 ![image alt](https://github.com/grzelkaw/RC-Car/blob/main/screenshots/4.jpg?raw=true)
 
+# Video
+https://github.com/user-attachments/assets/4ee33a63-3ffc-428a-b1c8-18ce5ec3e331
+
 # Components
 <h3>Car</h3>
 <p>- ESP32 DEV MODULE</p>
@@ -88,3 +91,6 @@ TODO CODE DESCRIPTION
 TODO CODE DESCRIPTION
 </p>
 
+# Summary
+<p>TODO summary</p>
+<p>Made by Wiktor Grzelka</p>
